@@ -1,0 +1,11 @@
+Oh no! When we run our program, it hangs forever and we have to force it to quit!
+
+There must by a cyclical loop inside our LinkedList!
+
+Can you employ debugging skills to find the source of the bug and fix it?
+
+You'll need all your top debugging skills to find the culprit!
+
+Your main tools are system out, the debugger, and your problem solving wits.
+
+It's a mystery, so no further hints!
